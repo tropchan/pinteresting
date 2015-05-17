@@ -6,4 +6,4 @@ By [Tim Ropchan]
 
 Building my first webapp!
 
-#Let's see how it goes:)
+#Let's see how it goes YO!
