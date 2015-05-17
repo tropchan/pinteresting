@@ -5,3 +5,5 @@ This is a pinteresting sample application for [*One Month Rails*](http://onemont
 By [Tim Ropchan]
 
 Building my first webapp!
+
+#Let's see how it goes:)
