@@ -1,9 +1,9 @@
 #One Month Rails
 
-This is a pinteresting sample application for One Month Course
+This is a Pinteresting sample web application for the online One Month Course.
 
 By [Tim Ropchan]
 
 Building my first webapp!
 
-#Let's see how it goes YO!
+#Check back for updates
